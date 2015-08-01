@@ -11,7 +11,7 @@
 		"outputAbbreviatedPath": "\/images\/contact-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/contact-side-1.jpg": {
 		"fileType": 16384,
@@ -22,7 +22,7 @@
 		"outputAbbreviatedPath": "\/images\/contact-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/contact-side-2.jpg": {
 		"fileType": 16384,
@@ -33,7 +33,7 @@
 		"outputAbbreviatedPath": "\/images\/contact-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/contact-side-3.jpg": {
 		"fileType": 16384,
@@ -44,7 +44,7 @@
 		"outputAbbreviatedPath": "\/images\/contact-side-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/donate-banner.jpg": {
 		"fileType": 16384,
@@ -55,7 +55,7 @@
 		"outputAbbreviatedPath": "\/images\/donate-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/founder-banner.jpg": {
 		"fileType": 16384,
@@ -66,7 +66,7 @@
 		"outputAbbreviatedPath": "\/images\/founder-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/founder-side-1.jpg": {
 		"fileType": 16384,
@@ -77,7 +77,7 @@
 		"outputAbbreviatedPath": "\/images\/founder-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/founder-side-2.jpg": {
 		"fileType": 16384,
@@ -88,7 +88,7 @@
 		"outputAbbreviatedPath": "\/images\/founder-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/founder-side-3.jpg": {
 		"fileType": 16384,
@@ -99,7 +99,7 @@
 		"outputAbbreviatedPath": "\/images\/founder-side-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/homepage-banner-3.jpg": {
 		"fileType": 16384,
@@ -110,7 +110,7 @@
 		"outputAbbreviatedPath": "\/images\/homepage-banner-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/homepage-banner-4.jpg": {
 		"fileType": 16384,
@@ -121,7 +121,7 @@
 		"outputAbbreviatedPath": "\/images\/homepage-banner-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/homepage-banner-5.jpg": {
 		"fileType": 16384,
@@ -132,7 +132,7 @@
 		"outputAbbreviatedPath": "\/images\/homepage-banner-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/homepage-banner.jpg": {
 		"fileType": 16384,
@@ -143,7 +143,7 @@
 		"outputAbbreviatedPath": "\/images\/homepage-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/homepage-portrait-1.png": {
 		"fileType": 32768,
@@ -154,7 +154,7 @@
 		"outputAbbreviatedPath": "\/images\/homepage-portrait-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/homepage-portrait-2.png": {
 		"fileType": 32768,
@@ -165,7 +165,7 @@
 		"outputAbbreviatedPath": "\/images\/homepage-portrait-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/homepage-portrait-3.png": {
 		"fileType": 32768,
@@ -176,7 +176,7 @@
 		"outputAbbreviatedPath": "\/images\/homepage-portrait-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/ico-facebook.png": {
 		"fileType": 32768,
@@ -187,7 +187,7 @@
 		"outputAbbreviatedPath": "\/images\/ico-facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/ico-twitter.png": {
 		"fileType": 32768,
@@ -198,7 +198,7 @@
 		"outputAbbreviatedPath": "\/images\/ico-twitter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/ico-youtube.png": {
 		"fileType": 32768,
@@ -209,7 +209,7 @@
 		"outputAbbreviatedPath": "\/images\/ico-youtube.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/logo.png": {
 		"fileType": 32768,
@@ -220,7 +220,7 @@
 		"outputAbbreviatedPath": "\/images\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/news-banner.jpg": {
 		"fileType": 16384,
@@ -231,7 +231,7 @@
 		"outputAbbreviatedPath": "\/images\/news-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/programs-banner.jpg": {
 		"fileType": 16384,
@@ -242,7 +242,7 @@
 		"outputAbbreviatedPath": "\/images\/programs-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/programs-cps-side-1.jpg": {
 		"fileType": 16384,
@@ -253,7 +253,7 @@
 		"outputAbbreviatedPath": "\/images\/programs-cps-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/programs-oak-side-1.jpg": {
 		"fileType": 16384,
@@ -264,7 +264,7 @@
 		"outputAbbreviatedPath": "\/images\/programs-oak-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/programs-occ-side-1.jpg": {
 		"fileType": 16384,
@@ -275,7 +275,7 @@
 		"outputAbbreviatedPath": "\/images\/programs-occ-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/programs-side-1.jpg": {
 		"fileType": 16384,
@@ -286,7 +286,7 @@
 		"outputAbbreviatedPath": "\/images\/programs-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/programs-side-2.jpg": {
 		"fileType": 16384,
@@ -297,7 +297,7 @@
 		"outputAbbreviatedPath": "\/images\/programs-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-alberto-side-1.jpg": {
 		"fileType": 16384,
@@ -308,7 +308,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-alberto-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-alberto-side-2.jpg": {
 		"fileType": 16384,
@@ -319,7 +319,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-alberto-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-angelica-side-1.jpg": {
 		"fileType": 16384,
@@ -330,7 +330,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-angelica-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-angelica-side-2.jpg": {
 		"fileType": 16384,
@@ -341,7 +341,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-angelica-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-banner.jpg": {
 		"fileType": 16384,
@@ -352,7 +352,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-chanta-side-1.jpg": {
 		"fileType": 16384,
@@ -363,7 +363,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-chanta-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-chanta-side-2.jpg": {
 		"fileType": 16384,
@@ -374,7 +374,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-chanta-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-rafal-side-1.jpg": {
 		"fileType": 16384,
@@ -385,7 +385,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-rafal-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-rafal-side-2.jpg": {
 		"fileType": 16384,
@@ -396,7 +396,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-rafal-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-rana-side-1.jpg": {
 		"fileType": 16384,
@@ -407,7 +407,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-rana-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-rana-side-2.jpg": {
 		"fileType": 16384,
@@ -418,7 +418,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-rana-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-side-1.jpg": {
 		"fileType": 16384,
@@ -429,7 +429,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-side-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-side-2.jpg": {
 		"fileType": 16384,
@@ -440,7 +440,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-side-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/scholars-side-3.jpg": {
 		"fileType": 16384,
@@ -451,7 +451,7 @@
 		"outputAbbreviatedPath": "\/images\/scholars-side-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/includes\/jquery.slimmenu.min.js": {
 		"fileType": 64,
