@@ -1,0 +1,10 @@
+todo
+-------
+-mobile menu
+-social media desktop icon adjustment only
+
+
+
+-notes
+-------
+- slimmenu css are integrated into the sass, originals can be found in /includes/lib/slimmenu
