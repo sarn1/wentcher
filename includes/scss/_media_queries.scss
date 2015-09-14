@@ -2,3 +2,87 @@
 ===============
 Media Queries
 =============== */
+@media only screen and (max-width: 1266px) {
+  .quotes {
+    width: 100%;
+    max-width: none;
+    margin:10px 0;
+
+    p {
+      width: 75%;
+      max-width: none;
+    }
+  }
+
+  section {
+    margin: 0;
+
+    article {
+      padding: 10px;
+    }
+  }
+
+  aside {
+    margin: 10px 0 0 0;
+    max-width: none;
+    text-align:center;
+
+    img {
+      display:block;
+    }
+
+    .announcement, .endorsement {
+      text-align:left;
+      max-width: none;
+      width: 100%;
+    }
+
+    .endorsement {
+      padding: 0;
+
+      h1{
+        padding: 10px 10px 0 10px;
+      }
+
+      p {
+        padding: 0 10px 10px 10px;
+      }
+    }
+  }
+
+  footer {
+    padding: 10px;
+  }
+}
+
+@media only screen and (max-width: 815px) {
+  #container {
+    border: thin solid #e24b70; /* red */
+  }
+
+  .quotes p {
+    margin-top: 15px;
+  }
+}
+
+
+@media only screen and (min-width: 816px) and (max-width: 1266px)
+{
+  #container {
+    border: thin solid #ffff00; /* yellow */
+  }
+
+  .quotes p {
+    margin-top: 25px;
+  }
+
+  section {
+    width: 68%;
+    max-width: none;
+  }
+
+  aside {
+    width: 30%;
+    max-width: none;
+  }
+}

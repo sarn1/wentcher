@@ -133,10 +133,12 @@ aside {
 
 
   img {
-    margin: 4px 0;
+    margin: 4px auto;
+    max-width: 369px;
+    width: 100%;
 
     & + img {
-      margin: 7px 0;
+      margin: 7px auto;
     }
 
     & + .announcement, & + .endorsement {

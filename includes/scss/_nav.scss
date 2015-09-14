@@ -172,3 +172,9 @@ ul.slimmenu>li:last-child {
 
   font-size:0;
 }
+
+
+ul.slimmenu.collapsed li:last-child a {
+  border-bottom: none;
+  margin: 10px auto 15px auto;
+}
