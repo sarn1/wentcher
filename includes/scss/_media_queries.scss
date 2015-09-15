@@ -15,7 +15,7 @@ Media Queries
   }
 
   section {
-    margin: 0;
+    margin: 0 !important;
 
     article {
       padding: 10px;
@@ -58,6 +58,13 @@ Media Queries
 @media only screen and (max-width: 815px) {
   #container {
     border: thin solid #e24b70; /* red */
+  }
+
+  header {
+    .logo {
+      width: 90%;
+      max-width:363px;
+    }
   }
 
   .quotes p {

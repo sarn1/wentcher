@@ -60,18 +60,20 @@ body {
 
     img {
       border:none;
+      @include responsive-img;
     }
 
+  /*
       img.responsive {
-        width: inherit;  /* This makes the next two lines work in IE8. */
-        max-width: 100%;
-        height: auto;
+        @include responsive-img;
       }
+  */
 
   font-size: $font-size;
   line-height: $line-height;
   color:$font-color;
   font-family: $font-family;
+  padding-top: 20px;
 }
 
 
@@ -86,6 +88,7 @@ header {
   nav {
     text-align: center;
   }
+
 }
 
 
@@ -100,6 +103,14 @@ section {
   max-width: 770px;
   width: 100%;
   vertical-align: text-top;
+
+  &.full-width {
+    max-width: #{ $max-width - 80 };
+    width: 100%;
+    display:block;
+    margin: 0 40px 25px 40px;
+  }
+
 
   /*
   =================
@@ -281,4 +292,8 @@ MISC
 
 #banner {
   margin-bottom:10px;
+
+  & > img {
+    @include responsive-img;
+  }
 }

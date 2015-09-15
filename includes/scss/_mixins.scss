@@ -19,3 +19,9 @@ mixins
   background: -ms-linear-gradient(top, #f8efe0 0%, #d5a951 100%);
   background: linear-gradient(top, #f8efe0 0%, #d5a951 100%);
 }
+
+@mixin responsive-img {
+  width: inherit;  /* This makes the next two lines work in IE8. */
+  max-width: 100%;
+  height: auto;
+}
