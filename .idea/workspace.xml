@@ -4,7 +4,6 @@
     <list default="true" id="a97b6aee-a1ea-4e5f-a0da-e30b7c2a895c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/scss/.sass-cache/c8694962108689ed061f859afe843b8f89383e6b/_nav.scssc" afterPath="$PROJECT_DIR$/includes/scss/.sass-cache/c8694962108689ed061f859afe843b8f89383e6b/_nav.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/scss/_nav.scss" afterPath="$PROJECT_DIR$/includes/scss/_nav.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/full-width.html" afterPath="$PROJECT_DIR$/full-width.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/styles.min.css" afterPath="$PROJECT_DIR$/includes/styles.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -36,21 +35,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.72897196">
       <split-first>
         <leaf>
-          <file leaf-file-name="_nav.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_nav.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/includes/scss/_nav.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="9.8">
-                  <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+                <state vertical-scroll-proportion="-0.0950764">
+                  <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="full-width.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="full-width.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/full-width.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.67053944">
-                  <caret line="86" column="248" selection-start-line="86" selection-start-column="248" selection-end-line="86" selection-end-column="248" />
+                <state vertical-scroll-proportion="-7.130435">
+                  <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
                   <folding>
                     <marker date="1442457445000" expanded="true" signature="1048:1199" placeholder="..." />
                     <marker date="1442457445000" expanded="true" signature="1141:1167" placeholder="..." />
@@ -67,7 +66,7 @@
             <entry file="file://$PROJECT_DIR$/includes/scss/_nav.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.84380305">
-                  <caret line="408" column="13" selection-start-line="408" selection-start-column="13" selection-end-line="408" selection-end-column="13" />
+                  <caret line="195" column="13" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -108,8 +107,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/page-with-left-link.html" />
         <option value="$PROJECT_DIR$/two-thirds-with-breadcrumbs.html" />
-        <option value="$PROJECT_DIR$/includes/scss/_nav.scss" />
         <option value="$PROJECT_DIR$/full-width.html" />
+        <option value="$PROJECT_DIR$/includes/scss/_nav.scss" />
       </list>
     </option>
   </component>
@@ -546,22 +545,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/scss/_nav.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.8">
-          <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/full-width.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67053944">
-          <caret line="86" column="248" selection-start-line="86" selection-start-column="248" selection-end-line="86" selection-end-column="248" />
+        <state vertical-scroll-proportion="-7.130435">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
           <folding>
             <marker date="1442457445000" expanded="true" signature="1048:1199" placeholder="..." />
             <marker date="1442457445000" expanded="true" signature="1141:1167" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/scss/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0950764">
+          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
