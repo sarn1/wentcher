@@ -19,6 +19,21 @@ Media Queries
 
     article {
       padding: 10px;
+
+      h1.header-right {
+        float:none;
+
+        & + span.header-left-link {
+          float:none;
+          margin-top: 5px;
+          display:block;
+        }
+      }
+    }
+
+    nav {
+      padding: 10px;
+      margin:0 0 20px 0;
     }
   }
 
@@ -57,7 +72,7 @@ Media Queries
 
 @media only screen and (max-width: 815px) {
   #container {
-    border: thin solid #e24b70; /* red */
+    //border: thin solid #e24b70; /* red */
   }
 
   header {
@@ -76,7 +91,7 @@ Media Queries
 @media only screen and (min-width: 816px) and (max-width: 1266px)
 {
   #container {
-    border: thin solid #ffff00; /* yellow */
+    //border: thin solid #ffff00; /* yellow */
   }
 
   .quotes p {
