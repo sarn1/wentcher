@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19115",
 "files": {
 	"\/full-width.html": {
 		"fileType": 8192,
@@ -495,22 +495,22 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/includes\/lib\/slimmenu\/original\/jquery.slimmenu.js": {
+	"\/includes\/lib\/slimmenu\/Original\/jquery.slimmenu.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/lib\/slimmenu\/original\/jquery.slimmenu.js",
+		"inputAbbreviatedPath": "\/includes\/lib\/slimmenu\/Original\/jquery.slimmenu.js",
 		"outputAbbreviatedPath": "\/includes\/jquery.slimmenu.min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/includes\/lib\/slimmenu\/original\/slimmenu.css": {
+	"\/includes\/lib\/slimmenu\/Original\/slimmenu.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/lib\/slimmenu\/original\/slimmenu.css",
+		"inputAbbreviatedPath": "\/includes\/lib\/slimmenu\/Original\/slimmenu.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -535,14 +535,14 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/includes\/scss\/_config.scss": {
+	"\/includes\/SCSS\/_config.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/_config.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/_config.scss",
 		"outputAbbreviatedPath": "\/includes\/css\/_config.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -551,14 +551,14 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/includes\/scss\/_media_queries.scss": {
+	"\/includes\/SCSS\/_media_queries.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/_media_queries.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/_media_queries.scss",
 		"outputAbbreviatedPath": "\/includes\/css\/_media_queries.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -567,14 +567,14 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/includes\/scss\/_mixins.scss": {
+	"\/includes\/SCSS\/_mixins.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/_mixins.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/_mixins.scss",
 		"outputAbbreviatedPath": "\/includes\/css\/_mixins.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -583,14 +583,14 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/includes\/scss\/_nav.scss": {
+	"\/includes\/SCSS\/_nav.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/_nav.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/_nav.scss",
 		"outputAbbreviatedPath": "\/includes\/css\/_nav.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -599,14 +599,14 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/includes\/scss\/_normalize.scss": {
+	"\/includes\/SCSS\/_normalize.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/_normalize.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/_normalize.scss",
 		"outputAbbreviatedPath": "\/includes\/css\/_normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -615,14 +615,14 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/includes\/scss\/_slider.scss": {
+	"\/includes\/SCSS\/_slider.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/_slider.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/_slider.scss",
 		"outputAbbreviatedPath": "\/includes\/css\/_slider.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -631,14 +631,14 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/includes\/scss\/_style.scss": {
+	"\/includes\/SCSS\/_style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/_style.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/_style.scss",
 		"outputAbbreviatedPath": "\/includes\/css\/_style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -647,14 +647,14 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/includes\/scss\/main.scss": {
+	"\/includes\/SCSS\/main.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/scss\/main.scss",
+		"inputAbbreviatedPath": "\/includes\/SCSS\/main.scss",
 		"outputAbbreviatedPath": "\/includes\/styles.min.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
@@ -823,8 +823,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -833,6 +841,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -1349,7 +1361,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
