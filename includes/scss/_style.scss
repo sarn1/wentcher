@@ -9,6 +9,15 @@ Style
 GENERAL
 =================
 */
+
+@font-face {
+  font-family: 'Conv_NeutraTextBold';
+  src: url('/includes/fonts/NeutraTextBold.eot');
+  src: local('☺'), url('/includes/fonts/NeutraTextBold.woff') format('woff'), url('/includes/fonts/NeutraTextBold.ttf') format('truetype'), url('/includes/fonts/NeutraTextBold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 #container {
   max-width: $max-width;
   margin:auto;
@@ -27,6 +36,7 @@ body {
 
   h1, h2, h3, h4, h5 {
     color:$secondary-color;
+    font-family: $font-family-heading;
     font-weight:bold;
     margin:0;
     padding:0;
@@ -225,6 +235,7 @@ aside {
       color:#FFF;
       font-size: 24px;
       line-height: 26px;
+      font-family: $font-family;
       font-style:italic;
       font-weight:normal;
     }
